@@ -1,0 +1,18 @@
+Study materials
+Please review the list and add a few words about your progress for each list item(under each exiting line):
+
+1. Git
+I study every day of teory and practic how to use git
+
+2. Jir and Confluence
+
+3. SDLC + Scrum
+
+4. Command line - Win and Linux
+
+5. Databases
+I am starting learn theory of databases today
+
+
+When information is added please create a new pull request to merge this branch into master
+and assign me as an approver of the merge request.
